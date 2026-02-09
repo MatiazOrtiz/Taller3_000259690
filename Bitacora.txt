@@ -1,0 +1,4 @@
+En el error uno no se creo la carpeta "Temporal " ya que estba ubiccado en la raiz del sistema. la carpeta raiz es una zona protegida de Linux y los usuarios normlaes no tienen permiso para crear una carpeta ahi
+Solucion: utilizar el comando sudo su luego ingresar la contraseña del computador y ya luego si nos deja crear la carpeta como si fueramos un administrador
+^O 
+
